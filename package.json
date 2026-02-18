@@ -1,0 +1,24 @@
+{
+  "name": "collection-quality-helper",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Language-Research-Technology/collection-quality-helper#readme",
+  "bugs": {
+    "url": "https://github.com/Language-Research-Technology/collection-quality-helper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Language-Research-Technology/collection-quality-helper.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "oni-ocfl": "github:Language-Research-Technology/oni-ocfl#v1.7.2",
+    "ro-crate": "^3.6.1"
+  }
+}
